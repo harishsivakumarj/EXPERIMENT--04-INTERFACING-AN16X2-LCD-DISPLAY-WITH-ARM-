@@ -206,9 +206,9 @@ int main(void)
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"NAVYA\n");
+	Lcd_string(&lcd,"Harish\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223040138\n");
+	Lcd_string(&lcd,"212223040062\n");
 
 }
 
